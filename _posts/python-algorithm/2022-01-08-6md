@@ -1,5 +1,5 @@
 ---
-title:  "빅오"
+title:  "자료형"
 excerpt: "파이썬 알고리즘"
 
 toc: true
@@ -9,7 +9,7 @@ toc_label: "TOC"
 categories:
   - python
   - algorithm
-last_modified_at: 2022-01-08T15:00:00-50:00
+last_modified_at: 2022-01-16T13:00:00-50:00
 ---
 
 ## 빅오
